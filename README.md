@@ -31,7 +31,7 @@ servicios web.
 ### Librerías del proyecto.
 | librería  | Descripción                | Comando                           |
 | :----     | :---                       | :---                              |
-| pyAudio   | Permite trabajar con audio | pip install setuptools            |
+| setuptools | Permite crear y distribur paquetes | pip install setuptools   |
 
 Librerías mencionadas en requirements
 <pre>
